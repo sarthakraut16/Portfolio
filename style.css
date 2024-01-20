@@ -296,6 +296,7 @@ nav .fa-solid{
 @media only screen and (max-width: 600px) {
   #header {
     background-image: url(phone-background-8.png);
+    overflow-x: hidden;
   }
   #heading-1 {
     font-size: 20px;
