@@ -299,13 +299,13 @@ nav .fa-solid{
     overflow-x: hidden;
   }
   #heading-1 {
-    font-size: 20px;
+    font-size: 30px;
   }
   #heading-2 {
-    font-size: 25px;
+    font-size: 35px;
   }
   .header-text h1 {
-    font-size: 24px;
+    font-size: 30px;
   }
   .row {
     flex-direction: column;
